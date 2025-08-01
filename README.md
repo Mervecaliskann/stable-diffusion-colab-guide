@@ -96,6 +96,8 @@ Run the code cells in the notebook from top to bottom by clicking the **play (â–
 
 An example image generated using the following prompt
 
+![British shorthair cat](https://github.com/Mervecaliskann/stable-diffusion-colab-guide/blob/main/indir%20(4).png?raw=true)
+
 **Prompt:** `photo of a beautiful British shorthair cat wearing a tiny wizard hat, magical library in the background`
 
 
