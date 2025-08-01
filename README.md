@@ -43,6 +43,7 @@ Not defterindeki kod hücrelerini yukarıdan aşağıya doğru, her birinin solu
 ## ✨ Örnek Çıktı
 
 ![Büyücü şapkalı sevimli British Shorthair kedisi](https://github.com/Mervecaliskann/stable-diffusion-colab-guide/blob/main/indir%20(4).png?raw=true)
+
 **Prompt:** `photo of a beautiful British shorthair cat wearing a tiny wizard hat, magical library in the background`
 
 ## 🎨 Sıra Sizde!
